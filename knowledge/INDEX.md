@@ -2,4 +2,10 @@
 
 按平台和主题浏览。对外答复只引用已生效且仍在有效期内的 approved 资料。
 
-当前没有知识卡片。
+## tiktok-shop / fulfillment
+
+- [TikTok Shop 英国｜仓库假期停发时如何处理新旧订单](tiktok-shop/fulfillment/uk-holiday-mode.md) · draft · UK · 核对 2026-11-19
+
+## tiktok-shop / inventory
+
+- [TikTok Shop 马来西亚｜按 SKU 找出优先补货商品](tiktok-shop/inventory/my-stock-alert.md) · draft · MY · 核对 2026-11-19
