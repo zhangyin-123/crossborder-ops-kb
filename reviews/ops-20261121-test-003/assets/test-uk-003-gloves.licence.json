@@ -1,0 +1,15 @@
+{
+  "task": "OPS-20261121-TEST-003",
+  "site": "UK",
+  "shop": "SIM-UK-003",
+  "sku": "TEST-UK-003-GLOVES",
+  "version": "v1",
+  "evidence_id": "SIM-LIC-TEST-UK-003-GLOVES",
+  "holder": "TEST-003 fixture studio",
+  "territory": "UK",
+  "scope": "simulated-commercial-review-only",
+  "source": "original-local-fixture",
+  "valid_from": "2026-11-01",
+  "valid_until": "2026-12-31",
+  "sha256": "fc9153c878bc2ca76d37c01fd476dc5fcb7baee54acae178851a8da79eaff80f"
+}

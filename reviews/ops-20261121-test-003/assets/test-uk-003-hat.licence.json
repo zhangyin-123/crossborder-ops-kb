@@ -1,0 +1,15 @@
+{
+  "task": "OPS-20261121-TEST-003",
+  "site": "UK",
+  "shop": "SIM-UK-003",
+  "sku": "TEST-UK-003-HAT",
+  "version": "v1",
+  "evidence_id": "SIM-LIC-TEST-UK-003-HAT",
+  "holder": "TEST-003 fixture studio",
+  "territory": "UK",
+  "scope": "simulated-commercial-review-only",
+  "source": "original-local-fixture",
+  "valid_from": "2026-11-01",
+  "valid_until": "2026-12-31",
+  "sha256": "c124613ec8594e6150f41dccd2b85590d99244e43a6e39efba6e8e9aa411f871"
+}

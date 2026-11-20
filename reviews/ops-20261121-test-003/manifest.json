@@ -1,0 +1,43 @@
+{
+  "task": "OPS-20261121-TEST-003",
+  "site": "UK",
+  "shop": "SIM-UK-003",
+  "mode": "simulation",
+  "run_id": "SIM-003-UK-c781daeb8003",
+  "source_commit": "0995bde7aae5bfc9357e2c1bb7106ceda93b3251",
+  "started_at": "2026-11-21T01:38:11.301119+08:00",
+  "review_status": "draft",
+  "workflow_source": "TEST-003 店主指定六环模拟顺序",
+  "reference_documents": [
+    "reviews/sop-optimized-v1.0-20261120.md",
+    "reviews/ops-standards-v1.0-20261120.md"
+  ],
+  "finished_at": "2026-11-21T01:38:11.315700+08:00",
+  "stages": 6,
+  "flow_events": 18,
+  "main_drafts": 3,
+  "negative_cases": 5,
+  "negative_attempts": 7,
+  "negative_drafts": 0,
+  "idempotent_replays": 3,
+  "real_store_calls": 0,
+  "real_erp_drafts": 0,
+  "model_api_calls_by_runner": 0,
+  "quota_delta": 0,
+  "hashes_sha256": {
+    "assets/test-uk-003-gloves.licence.json": "f8569d94853cbe909525adb92923ff48ee9027986467328fbede43cc12a6e776",
+    "assets/test-uk-003-gloves.svg": "fc9153c878bc2ca76d37c01fd476dc5fcb7baee54acae178851a8da79eaff80f",
+    "assets/test-uk-003-hat.licence.json": "14738a830b9bceeb2e035775f5ef28689be3587d12ee9fe38a249aa078878b03",
+    "assets/test-uk-003-hat.svg": "c124613ec8594e6150f41dccd2b85590d99244e43a6e39efba6e8e9aa411f871",
+    "assets/test-uk-003-scarf.licence.json": "db490ae0a9e31fdf15a2423f21fb873cafae6f65be95df12cf6a685a14a7eb8d",
+    "assets/test-uk-003-scarf.svg": "d4d66a15f860758729a2ee7a9fdef5a6007dbe1e90be6f68c9d55f00714ff31c",
+    "draft-events.jsonl": "1abd2d7abe5f3b0b44df97d8f3a5c58e217db22d71bd4f2572c8ee996c786e24",
+    "drafts/test-uk-003-gloves.json": "77695f305f5b2bb0dcfffa4e6b0be042d177ba64d15e4341628635f9794dc5e1",
+    "drafts/test-uk-003-hat.json": "523bd753964cdd095e70073d4844a439cca69ed012ca2dba85741a6ace53dc46",
+    "drafts/test-uk-003-scarf.json": "47fd6ae88833fe8534abc24349df08b8fa45dfbbf955d00bbcd5bbbfe8a7ab78",
+    "flow.jsonl": "fd6744f6b8acff32b67a132809b3029beb6db2d787f421b82de3de779bfbd63e",
+    "profits.csv": "755fd996231066a264d4bd0a3490c012075ba9bd7a449a53a4364b93905ea841",
+    "report.md": "5ce12828d2b74ecd587c3cdf9ecdd6cae9e15bc1284bf0eb5ed2445ba93f4958",
+    "risk.jsonl": "c218882ffd4a33bc77aca70c422b4e78f1d8d8492fd84a9d5d45edeba6813dde"
+  }
+}

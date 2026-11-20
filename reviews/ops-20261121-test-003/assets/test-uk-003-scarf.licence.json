@@ -1,0 +1,15 @@
+{
+  "task": "OPS-20261121-TEST-003",
+  "site": "UK",
+  "shop": "SIM-UK-003",
+  "sku": "TEST-UK-003-SCARF",
+  "version": "v1",
+  "evidence_id": "SIM-LIC-TEST-UK-003-SCARF",
+  "holder": "TEST-003 fixture studio",
+  "territory": "UK",
+  "scope": "simulated-commercial-review-only",
+  "source": "original-local-fixture",
+  "valid_from": "2026-11-01",
+  "valid_until": "2026-12-31",
+  "sha256": "d4d66a15f860758729a2ee7a9fdef5a6007dbe1e90be6f68c9d55f00714ff31c"
+}
