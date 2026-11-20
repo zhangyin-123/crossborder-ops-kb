@@ -1,0 +1,15 @@
+{
+  "task": "OPS-20261121-TEST-002",
+  "site": "MY",
+  "shop": "SIM-MY-002",
+  "sku": "TEST-MY-002-BOX",
+  "version": "v1",
+  "evidence_id": "SIM-LIC-TEST-MY-002-BOX",
+  "holder": "TEST-002 fixture studio",
+  "territory": "MY",
+  "scope": "simulated-commercial-review-only",
+  "source": "original-local-fixture",
+  "valid_from": "2026-11-01",
+  "valid_until": "2026-12-31",
+  "sha256": "3c597f49aae1cc37a9e5881ca6a8631c3503378add325b28dfe3110536950693"
+}

@@ -1,0 +1,15 @@
+{
+  "task": "OPS-20261121-TEST-002",
+  "site": "MY",
+  "shop": "SIM-MY-002",
+  "sku": "TEST-MY-002-HANGER",
+  "version": "v1",
+  "evidence_id": "SIM-LIC-TEST-MY-002-HANGER",
+  "holder": "TEST-002 fixture studio",
+  "territory": "MY",
+  "scope": "simulated-commercial-review-only",
+  "source": "original-local-fixture",
+  "valid_from": "2026-11-01",
+  "valid_until": "2026-12-31",
+  "sha256": "f45e3ec6da39427463cf01fd9ae3e92a6c9cbf4ac5e77ec4e3c5dd6fc5e08f1a"
+}
